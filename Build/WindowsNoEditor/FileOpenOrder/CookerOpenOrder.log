@@ -1,0 +1,812 @@
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Audio/rock_smashable_hit_impact_02.uasset" 0
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Audio/rock_smashable_hit_impact_03.uasset" 1
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Audio/rock_smashable_hit_impact_large_02.uasset" 2
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Audio/Hits/Bullets_-_Hit_Body.uasset" 3
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Audio/Hits/Bullets_-_Hit_Body_10.uasset" 4
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Audio/Hits/Bullets_-_Hit_Body_2.uasset" 5
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Audio/Hits/Bullets_-_Hit_Body_3.uasset" 6
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Audio/Hits/Bullets_-_Hit_Body_4.uasset" 7
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Audio/Hits/Bullets_-_Hit_Body_5.uasset" 8
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Audio/Hits/Bullets_-_Hit_Body_6.uasset" 9
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Audio/Hits/Bullets_-_Hit_Body_7.uasset" 10
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Audio/Hits/Bullets_-_Hit_Body_8.uasset" 11
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Audio/Hits/Bullets_-_Hit_Body_9.uasset" 12
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/FootstepSound/Sounds/WaveFiles/Footsteps_Mono/Male/Concrete/concrete_1.uasset" 13
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/FootstepSound/Sounds/WaveFiles/Footsteps_Mono/Male/Concrete/concrete_2.uasset" 14
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/FootstepSound/Sounds/WaveFiles/Footsteps_Mono/Male/Concrete/concrete_3.uasset" 15
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/FootstepSound/Sounds/WaveFiles/Footsteps_Mono/Male/Concrete/concrete_4.uasset" 16
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/FootstepSound/Sounds/WaveFiles/Footsteps_Mono/Male/Concrete/concrete_5.uasset" 17
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/FootstepSound/Sounds/WaveFiles/Footsteps_Mono/Male/Concrete/concrete_6.uasset" 18
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/FootstepSound/Sounds/WaveFiles/Footsteps_Mono/Male/Ground/ground_1.uasset" 19
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/FootstepSound/Sounds/WaveFiles/Footsteps_Mono/Male/Ground/ground_2.uasset" 20
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/FootstepSound/Sounds/WaveFiles/Footsteps_Mono/Male/Ground/ground_3.uasset" 21
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/FootstepSound/Sounds/WaveFiles/Footsteps_Mono/Male/Ground/ground_4.uasset" 22
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/FootstepSound/Sounds/WaveFiles/Footsteps_Mono/Male/Ground/ground_5.uasset" 23
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/FootstepSound/Sounds/WaveFiles/Footsteps_Mono/Male/Ground/ground_6.uasset" 24
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Materials/IntructionsBlack.uasset" 25
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 26
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Blueprints/portal_clone_skeletal.uasset" 27
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Blueprints/portal_clone_static_mesh.uasset" 28
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Blueprints/portal_CollisionDisabler.uasset" 29
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Blueprints/PortalMaterialParamSet.uasset" 30
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Blueprints/PortalRenderTargetCollection.uasset" 31
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Blueprints/PortalCameraPawnInterface.uasset" 32
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Blueprints/PortalItemInterface.uasset" 33
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Blueprints/PortalTickComponent.uasset" 34
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Blueprints/PortalRenderTargetMap.uasset" 35
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Demo_Content/Materials/Red_glow.uasset" 36
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Demo_Content/Materials/water_glow_ball.uasset" 37
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Blueprints/PortalRenderManagerBP.uasset" 38
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Blueprints/Portal_BP_clone_component.uasset" 39
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Epic_Content/Textures/T_Perlin_Noise_M.uasset" 40
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Demo_Content/Materials/glass.uasset" 41
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 42
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 43
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uasset" 44
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uasset" 45
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/TransformToClipSpace.uasset" 46
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ComponentBasisVectors.uasset" 47
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ComponentPivotLocation.uasset" 48
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Materials/PortalMaterialParams.uasset" 49
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Materials/Portal_global_RT.uasset" 50
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Materials/Portal_global_RT_Mat.uasset" 51
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Materials/Portal_global_RT_Mat_Inst.uasset" 52
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Materials/portal_M_BaseMaterial.uasset" 53
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Meshes/portal_doorway.uasset" 54
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 55
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 56
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 57
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 58
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Meshes/portal_invcube.uasset" 59
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Materials/portal_M_Basic_Wall.uasset" 60
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Meshes/portal_plane_mesh.uasset" 61
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Blueprints/PortalBP.uasset" 62
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Epic_Content/Meshes/SK_Mannequin_Arms_Skeleton.uasset" 63
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Epic_Content/Animation/FirstPerson_Idle.uasset" 64
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Epic_Content/Animation/FirstPerson_JumpEnd.uasset" 65
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Epic_Content/Animation/FirstPerson_JumpLoop.uasset" 66
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Epic_Content/Animation/FirstPerson_JumpStart.uasset" 67
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Epic_Content/Animation/FirstPerson_Run.uasset" 68
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Epic_Content/Animation/FirstPerson_AnimBP.uasset" 69
+"../../../Engine/Content/EngineMeshes/Humanoid.uasset" 70
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Epic_Content/Meshes/UE4_Mannequin_Skeleton.uasset" 71
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Epic_Content/Animation/ThirdPersonJump_Loop.uasset" 72
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Epic_Content/Animation/Idle.uasset" 73
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Epic_Content/Animation/Run_Bwd.uasset" 74
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Epic_Content/Animation/Run_Left.uasset" 75
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Epic_Content/Animation/Run_Right.uasset" 76
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Epic_Content/Animation/ThirdPersonIdle.uasset" 77
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Epic_Content/Animation/ThirdPersonRun.uasset" 78
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Epic_Content/Animation/ThirdPersonWalk.uasset" 79
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Epic_Content/Animation/Walk_Bwd.uasset" 80
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Epic_Content/Animation/Walk_Left.uasset" 81
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Epic_Content/Animation/Walk_Right.uasset" 82
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Epic_Content/Animation/Owen_Locomotion_Blendspace.uasset" 83
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Epic_Content/Animation/ThirdPerson_IdleRun_2D.uasset" 84
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Epic_Content/Meshes/UE4_Mannequin_Skeleton_AnimBlueprint_firstperson.uasset" 85
+"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 86
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Epic_Content/Materials/FirstPersonProjectileMaterial.uasset" 87
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Epic_Content/Meshes/FirstPersonProjectileMesh.uasset" 88
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Demo_Content/Blueprints/FirstPersonProjectile_ball.uasset" 89
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Epic_Content/Textures/T_Metal_Gold_N.uasset" 90
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Epic_Content/Textures/T_Rock_Marble_Polished_D.uasset" 91
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Epic_Content/Materials/M_Rock_White_Marble_Polished1.uasset" 92
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Epic_Content/Materials/M_Rock_White_Marble_Polished1_Inst.uasset" 93
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Epic_Content/Materials/CubeMaterial.uasset" 94
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Epic_Content/Meshes/1M_Cube.uasset" 95
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Demo_Content/Blueprints/FirstPersonProjectile_cube.uasset" 96
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Materials/Portal_global__nocoords.uasset" 97
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Demo_Content/portal_debug_ui.uasset" 98
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 99
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 100
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 101
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Epic_Content/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 102
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Epic_Content/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 103
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Epic_Content/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 104
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Epic_Content/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 105
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Epic_Content/Materials/MaterialLayers/ML_Screen.uasset" 106
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Epic_Content/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 107
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Epic_Content/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 108
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Epic_Content/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 109
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Epic_Content/Textures/T_FPGun_M.uasset" 110
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Epic_Content/Textures/T_FPGun_N.uasset" 111
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Epic_Content/Materials/M_FPGun.uasset" 112
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Epic_Content/Meshes/SK_FPGun_Skeleton.uasset" 113
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Epic_Content/Meshes/SK_FPGun.uasset" 114
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Epic_Content/Meshes/SK_Mannequin_PhysicsAsset.uasset" 115
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Epic_Content/Meshes/SK_Mannequin.uasset" 116
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Epic_Content/Meshes/SK_Mannequin_Arms_PhysicsAsset.uasset" 117
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Epic_Content/Meshes/SK_Mannequin_Arms.uasset" 118
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Demo_Content/Blueprints/FirstPersonCharacter.uasset" 119
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Demo_Content/Blueprints/FirstPersonProjectile_portal_spawner.uasset" 120
+"../../../Engine/Content/EditorSounds/GamePreview/EndSimulate.uasset" 121
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 122
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/AdvancedMagicFX13/Textures/T_ky_deco_doom.uasset" 123
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/AdvancedMagicFX13/Textures/T_ky_noise6.uasset" 124
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/AdvancedMagicFX13/Materials/M_ky_aura9.uasset" 125
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/AdvancedMagicFX13/Textures/T_ky_dust02.uasset" 126
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/AdvancedMagicFX13/Textures/T_ky_flareVertical02.uasset" 127
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/AdvancedMagicFX13/Textures/T_ky_noise13_sml_nor.uasset" 128
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/AdvancedMagicFX13/Materials/M_ky_dust02.uasset" 129
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/AdvancedMagicFX13/Materials/M_ky_flare01_primitive.uasset" 130
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/AdvancedMagicFX13/Materials/MI_ky_flareVertical02.uasset" 131
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 132
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 133
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Fresnel_Function.uasset" 134
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/AdvancedMagicFX13/Materials/M_ky_primitive.uasset" 135
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/AdvancedMagicFX13/Materials/MI_ky_primitive2_trs.uasset" 136
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/AdvancedMagicFX13/Meshes/SM_ky_circleDist5.uasset" 137
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/AdvancedMagicFX13/Particles/P_ky_burst.uasset" 138
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/AdvancedMagicFX13/Textures/T_ky_decoLinesB.uasset" 139
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/AdvancedMagicFX13/Textures/T_ky_noise5.uasset" 140
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/AdvancedMagicFX13/Materials/M_ky_aura18.uasset" 141
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/AdvancedMagicFX13/Textures/T_ky_gradiation.uasset" 142
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/AdvancedMagicFX13/Textures/T_ky_maskRGB5.uasset" 143
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/AdvancedMagicFX13/Materials/M_ky_line.uasset" 144
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 145
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/AdvancedMagicFX13/Textures/T_ky_maskRGB3.uasset" 146
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/AdvancedMagicFX13/Materials/Mfunction/MF_ky_addHilight.uasset" 147
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/AdvancedMagicFX13/Textures/T_ky_fire01.uasset" 148
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/AdvancedMagicFX13/Materials/M_ky_fire03b.uasset" 149
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/AdvancedMagicFX13/Materials/MI_ky_fire03b_1.uasset" 150
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/AdvancedMagicFX13/Textures/T_ky_flare_a.uasset" 151
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/AdvancedMagicFX13/Materials/M_ky_flare_flash.uasset" 152
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/AdvancedMagicFX13/Materials/MI_ky_flare_flash_trs.uasset" 153
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/AdvancedMagicFX13/Materials/M_ky_primitive_dyn2.uasset" 154
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/AdvancedMagicFX13/Materials/MI_ky_primitive_dynB_two.uasset" 155
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/AdvancedMagicFX13/Meshes/SM_ky_circle_inv2.uasset" 156
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/AdvancedMagicFX13/Meshes/SM_ky_cylinder_lowPoly_dist.uasset" 157
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/AdvancedMagicFX13/Meshes/SM_ky_lans.uasset" 158
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/AdvancedMagicFX13/Meshes/SM_ky_quads.uasset" 159
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/AdvancedMagicFX13/Particles/P_ky_stabShot.uasset" 160
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Demo_Content/Blueprints/FirstPersonProjectile_portal_spawner_flat.uasset" 161
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Demo_Content/Meshes/UE4_Mannequin_Skeleton_AnimBlueprint.uasset" 162
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Blueprints/portal_fun_lib.uasset" 163
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 164
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 165
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Demo_Content/Blueprints/marker.uasset" 166
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Demo_Content/Materials/Red.uasset" 167
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Demo_Content/Materials/Green.uasset" 168
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Demo_Content/Audio/sfxsoundmix.uasset" 169
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Demo_Content/Audio/sfxclass.uasset" 170
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Demo_Content/Audio/Bag__Wallet__Credit_Card__Slide_Out__Close_Up_SND20412_1.uasset" 171
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Demo_Content/Audio/Bag__Wallet__Credit_Card__Slide_Out__Close_Up_SND20412_1_Cue.uasset" 172
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Demo_Content/Audio/Card__Greeting_Card__Stand_Up_On_Surface_2_SND16441_1.uasset" 173
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Demo_Content/Audio/Card__Greeting_Card__Stand_Up_On_Surface_2_SND16441_1_Cue.uasset" 174
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Demo_Content/Audio/Game__Jingle__Chime__Negative_1_SND5613_2.uasset" 175
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Demo_Content/Audio/Game__Jingle__Chime__Negative_1_SND5613_2_Cue.uasset" 176
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Demo_Content/Materials/Slippy.uasset" 177
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 178
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Demo_Content/Meshes/Cylinder.uasset" 179
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Demo_Content/Meshes/wizard_hat.uasset" 180
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Demo_Content/EPlayer.uasset" 181
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Blueprints/portal_main_ui.uasset" 182
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PortalsBP/Demo_Content/DebugPortalPlayerController.uasset" 183
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 184
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 185
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 186
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 187
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 188
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Mannequin/Animations/ThirdPersonRun.uasset" 189
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 190
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 191
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 192
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 193
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 194
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 195
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 196
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 197
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 198
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 199
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 200
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 201
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 202
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 203
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 204
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 205
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 206
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 207
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 208
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" 209
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" 210
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 211
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 212
+"../../../Engine/Content/BasicShapes/Cone.uasset" 213
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 214
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 215
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 216
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 217
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 218
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 219
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 220
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 221
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 222
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 223
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 224
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 225
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 226
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 227
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 228
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 229
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 230
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 231
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 232
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 233
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 234
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 235
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 236
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 237
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 238
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 239
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 240
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 241
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 242
+"../../../Engine/Content/EditorResources/S_Note.uasset" 243
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 244
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 245
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 246
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 247
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 248
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 249
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 250
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 251
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 252
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 253
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 254
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 255
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 256
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 257
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 258
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 259
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 260
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 261
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 262
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 263
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 264
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 265
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 266
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 267
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 268
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 269
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 270
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 271
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 272
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 273
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 274
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 275
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 276
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 277
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 278
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 279
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 280
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 281
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 282
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 283
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 284
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 285
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 286
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 287
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 288
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 289
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 290
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 291
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 292
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 293
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 294
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 295
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 296
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 297
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 298
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 299
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 300
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 301
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 302
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 303
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 304
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 305
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 306
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 307
+"../../../Engine/Content/EngineResources/Black.uasset" 308
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 309
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 310
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 311
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 312
+"../../../Engine/Content/EngineSounds/Master.uasset" 313
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 314
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 315
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 316
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 317
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 318
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 319
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 320
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 321
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 322
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 323
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 324
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 325
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 326
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 327
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 328
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 329
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 330
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 331
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 332
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 333
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 334
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 335
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 336
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 337
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 338
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 339
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 340
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 341
+"../../../Engine/Content/Tutorial/SubEditors/GettingSubstance.uasset" 342
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 343
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 344
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 345
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 346
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 347
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 348
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 349
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 350
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 351
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 352
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 353
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 354
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 355
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 356
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 357
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 358
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraBooleanLogicOps.uasset" 359
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 360
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 361
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraOrientationAxis.uasset" 362
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 363
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 364
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 365
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 366
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 367
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 368
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 369
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 370
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Character/Epic_Skeleton_Template_Skeleton.uasset" 371
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Character/aJump_End.uasset" 372
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Character/aJump_Start.uasset" 373
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Character/aJumpLoop.uasset" 374
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Character/aIdle.uasset" 375
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Character/Animations/RunBwdLoop.uasset" 376
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Character/Animations/RunFwdLoop.uasset" 377
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Character/Animations/RunLtLoop.uasset" 378
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Character/Animations/RunRtLoop.uasset" 379
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Character/Animations/RunStrafeLeft135Loop.uasset" 380
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Character/Animations/RunStrafeLeft45Loop.uasset" 381
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Character/Animations/RunStrafeRight135Loop.uasset" 382
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Character/Animations/RunStrafeRight45Loop.uasset" 383
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Character/Animations/StrafeLeft135Loop.uasset" 384
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Character/Animations/StrafeLeft45Loop.uasset" 385
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Character/Animations/StrafeLeftLoop.uasset" 386
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Character/Animations/StrafeRight135Loop.uasset" 387
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Character/Animations/StrafeRight45Loop.uasset" 388
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Character/Animations/StrafeRightLoop.uasset" 389
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Character/Animations/WalkBwdLoop.uasset" 390
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Character/Animations/WalkFwdLoop.uasset" 391
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Character/ClassicStrafeWalking.uasset" 392
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Character/EpicAnimBlueprint.uasset" 393
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Planet.uasset" 394
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Audio/James_Hammond_-_Hobby_Habitat.uasset" 395
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/FootstepSound/Sounds/FootstepsSoundAttenuation.uasset" 396
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/ExampleActors/BP_GravityPlanet.uasset" 397
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Character/M_Template_Master.uasset" 398
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Character/Epic_Skeleton_Template.uasset" 399
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Character/BP_GravityCharacter.uasset" 400
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Textures/T_Toy_Cow_M.uasset" 401
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Textures/T_Toy_Cow_N.uasset" 402
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Materials/M_Toy_Cow.uasset" 403
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Meshes/SM_Toy_Cow.uasset" 404
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/EggTest/Mixamo/Eye_D.uasset" 405
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/EggTest/Mixamo/Eye_N.uasset" 406
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/EggTest/Mixamo/Eye_Iris.uasset" 407
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/EggTest/Mixamo/Eye_white.uasset" 408
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/EggTest/Mixamo/EyeBlack.uasset" 409
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PSXRENDERING/PSXEffect/PSXEffect_GlobalParams.uasset" 410
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PSXRENDERING/PSXEffect/PSXEffect_Function.uasset" 411
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PSXRENDERING/Monster/Textures/Skeleton_D.uasset" 412
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PSXRENDERING/Monster/Material/PSXMasterMat.uasset" 413
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/AdvancedMagicFX13/Textures/T_ky_deco_rainbow.uasset" 414
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PSXRENDERING/Monster/Material/M_PSXDefaultMat2.uasset" 415
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/EggTest/Mixamo/newpa.uasset" 416
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/EggTest/Mixamo/T-Pose_Skeleton.uasset" 417
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/EggTest/Mixamo/T-Pose.uasset" 418
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Character/StaticGravityCharacter.uasset" 419
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 420
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Moon/MajoraMoon_Rigged_Textured2_Skeleton.uasset" 421
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Moon/MajoraMoonAnimHurt.uasset" 422
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/AdvancedMagicFX13/Materials/M_ky_empty.uasset" 423
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/AdvancedMagicFX13/Textures/T_ky_smoke1.uasset" 424
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/AdvancedMagicFX13/Materials/M_ky_gaseous03.uasset" 425
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/AdvancedMagicFX13/Textures/T_ky_noise16.uasset" 426
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/AdvancedMagicFX13/Textures/T_ky_noise4.uasset" 427
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/AdvancedMagicFX13/Materials/M_ky_shockwave08.uasset" 428
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/DiamondGradient.uasset" 429
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 430
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 431
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Screen.uasset" 432
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/AdvancedMagicFX13/Textures/T_ky_dust_longStar.uasset" 433
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/AdvancedMagicFX13/Materials/M_ky_starDust.uasset" 434
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/AdvancedMagicFX13/Materials/MI_ky_starDust_sq.uasset" 435
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/AdvancedMagicFX13/Meshes/SM_ky_circle_midpoly.uasset" 436
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/AdvancedMagicFX13/Particles/P_ky_explosion1.uasset" 437
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Audio/ChipShop_YM_FX_Explo_01.uasset" 438
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Audio/ChipShop_YM_FX_Explo_01_Cue.uasset" 439
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Audio/ChipShop_YM_FX_Explo_02.uasset" 440
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Audio/ChipShop_YM_FX_Ill.uasset" 441
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Materials/Errors.uasset" 442
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Error.uasset" 443
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Moon/MajorMoon_lambert1_BaseColor.uasset" 444
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Moon/MajorMoon_lambert1_Normal.uasset" 445
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Moon/lambert2.uasset" 446
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Moon/MajoraMoon_Rigged_Textured2_PhysicsAsset.uasset" 447
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Moon/MajoraMoon_Rigged_Textured2.uasset" 448
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Moon/MoonBossBP.uasset" 449
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/SphereGradient-2D.uasset" 450
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/HueShift.uasset" 451
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Sine_Remapped.uasset" 452
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Materials/Luos_TimeSine.uasset" 453
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Materials/ObliviumOreMat.uasset" 454
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Blueprints/ExpOrbProjectile.uasset" 455
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/EggTest/Mixamo/Breathing_Idle_Take_001.uasset" 456
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/EggTest/Mixamo/Falling_mixamo_com.uasset" 457
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/EggTest/Mixamo/Jumping_Up_mixamo_com.uasset" 458
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/FootstepSound/Sounds/WaveFiles/Footsteps_Mono/Male/Ground/GroundFootstepCue.uasset" 459
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/EggTest/Mixamo/Land_mixamo_com.uasset" 460
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Audio/whoosh_swish_high_fast_03.uasset" 461
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Audio/WooshFastCue.uasset" 462
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/EggTest/Mixamo/Spin.uasset" 463
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/EggTest/Mixamo/SwingMelee.uasset" 464
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/EggTest/Mixamo/WindUpMelee.uasset" 465
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/FootstepSound/Sounds/WaveFiles/Footsteps_Mono/Male/Concrete/ConcreteFootsteps.uasset" 466
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/EggTest/Mixamo/Running__1__Anim_mixamo_com.uasset" 467
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/EggTest/Mixamo/Running_mixamo_com.uasset" 468
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/EggTest/Mixamo/Walking_With_Shopping_Bag_Anim_mixamo_com.uasset" 469
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/EggTest/Mixamo/EggyBP1D.uasset" 470
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/EggTest/Mixamo/T-Pose_Skeleton_AnimBlueprint.uasset" 471
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Audio/Sound_Effects/PickUp_Sound1.uasset" 472
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Audio/Sound_Effects/PickUp_Sound1_Cue.uasset" 473
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Blueprints/ExpOrb.uasset" 474
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Blueprints/MyAIController.uasset" 475
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/WaterMaterials/Textures/T_Water_Pixelated.uasset" 476
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PSXRENDERING/Monster/Material/M_PSXDefaultMat4.uasset" 477
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Audio/Hits/HitBody.uasset" 478
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Audio/retro_laser_gun_shoot_11.uasset" 479
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Audio/retro_laser_gun_shoot_11_Cue.uasset" 480
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Blueprints/MyAIGravityCharacter.uasset" 481
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Blueprints/MyAIGravityCharacterBoss.uasset" 482
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Materials/DefaultTextMaterialOpaque.uasset" 483
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Materials/CRT_POST.uasset" 484
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Materials/CRT_POST_Inst.uasset" 485
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Audio/UFO_Flying_ImpactA01.uasset" 486
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Audio/UFO_Flying_ImpactA02.uasset" 487
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Audio/UFO_Flying_ImpactA03.uasset" 488
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Audio/UFO_Flying_ImpactA04.uasset" 489
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Audio/UFO_Flying_ImpactA05.uasset" 490
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Audio/UFO_Flying_ImpactB01.uasset" 491
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Audio/UFO_Flying_ImpactB02.uasset" 492
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Audio/UFO_Flying_ImpactB03.uasset" 493
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Audio/UFO_Flying_ImpactB04.uasset" 494
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Audio/UFO_Flying_ImpactB05.uasset" 495
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Audio/UFO_Flying_ImpactC01.uasset" 496
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Audio/UFO_Flying_ImpactC02.uasset" 497
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Audio/UFO_Flying_ImpactC03.uasset" 498
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Audio/UFO_Flying_ImpactC04.uasset" 499
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Audio/UFO_Flying_ImpactC05.uasset" 500
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Audio/UFO_Flying_Impact_Cue.uasset" 501
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Materials/m_flare_01.uasset" 502
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Textures/T_sunflare.uasset" 503
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Materials/m_flare_03.uasset" 504
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Effects/P_Metal_Impact.uasset" 505
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Materials/ScreenRenderTarget.uasset" 506
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Weapons/MaceTexture.uasset" 507
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PSXRENDERING/Monster/Material/M_PSXDefaultMat3.uasset" 508
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Weapons/Mace.uasset" 509
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Blueprints/MyGravityCharacter.uasset" 510
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Textures/T_Space.uasset" 511
+"../../../Engine/Content/EngineVolumetrics/LightBeam/Materials/T_EV_LightBeam_Falloff_01.uasset" 512
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Materials/M_Abduction_Beam.uasset" 513
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Textures/enter.uasset" 514
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Materials/M_enter.uasset" 515
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/MaterialFunctions/ML_Dirt.uasset" 516
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/MaterialFunctions/ML_Emissive.uasset" 517
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 518
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Textures/T_ExampleLayers_Metal01_D.uasset" 519
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Textures/T_ExampleLayers_Metal01_N.uasset" 520
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/MaterialFunctions/ML_Metal_Chrome.uasset" 521
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Textures/T_ExampleLayers_Plastic01_D.uasset" 522
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Textures/T_ExampleLayers_Plastic01_N.uasset" 523
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/MaterialFunctions/ML_Plastic01.uasset" 524
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Standard.uasset" 525
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Textures/T_UFO_02_M.uasset" 526
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Textures/T_UFO_M.uasset" 527
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Materials/M_UFO_Main.uasset" 528
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Materials/M_UFO_Main_Inst.uasset" 529
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Audio/UFO_BeamDrop01.uasset" 530
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Audio/UFO_BeamDrop02.uasset" 531
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Audio/UFO_BeamDrop_Cue.uasset" 532
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Audio/UFO_BeamPickUp03.uasset" 533
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Audio/UFO_BeamPickUp_Cue.uasset" 534
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Audio/UFO_Beam_Loop05.uasset" 535
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Audio/UFO_Beam_Loop12.uasset" 536
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Audio/UFO_BeamStart04.uasset" 537
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Audio/UFO_BeamStart08.uasset" 538
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Audio/UFO_BeamStart_Loop_Cue.uasset" 539
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Audio/UFO_BeamStop05.uasset" 540
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Audio/UFO_BeamStop_Cue.uasset" 541
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Audio/UFO_Flying_Loop03.uasset" 542
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Audio/UFO_Jet.uasset" 543
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Audio/UFO_Flying_Loop_Cue.uasset" 544
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Audio/UFO_FlyingActivate03.uasset" 545
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Audio/UFO_FlyingActivate_Cue.uasset" 546
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Audio/UFO_FlyingDeactivate03.uasset" 547
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Audio/UFO_FlyingDeactivate_Cue.uasset" 548
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Audio/UFO_Turbo01.uasset" 549
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Audio/UFO_Turbo_Cue.uasset" 550
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Textures/T_Ring.uasset" 551
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Materials/M_Impact_Ripple.uasset" 552
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Swizzle.uasset" 553
+"../../../Engine/Content/EngineVolumetrics/Fogsheet/Materials/T_EV_FogSheet_Falloff_02.uasset" 554
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Materials/M_Particle_Ribbon.uasset" 555
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Materials/M_Radial_Gradient.uasset" 556
+"../../../Engine/Content/EditorMeshes/EditorPlane.uasset" 557
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Effects/P_UFO_Engine.uasset" 558
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Effects/P_UFO_Engine_Boost.uasset" 559
+"../../../Engine/Content/EngineVolumetrics/LightBeam/Materials/T_EV_LightBeam_Falloff_03.uasset" 560
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Materials/M_Energy_Burst.uasset" 561
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Meshes/SM_Open_Cylinder.uasset" 562
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Effects/P_Vertical_Boost.uasset" 563
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Effects/P_Vertical_Boost_Inverted.uasset" 564
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Meshes/SM_UFO_Hub.uasset" 565
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/PhysicalMaterials/PM_UFO.uasset" 566
+"../../../Engine/Content/EngineLightProfiles/NarrowComplex_IES.uasset" 567
+"../../../Engine/Content/EngineVolumetrics/LightBeam/Materials/T_EV_DustPanner_01.uasset" 568
+"../../../Engine/Content/EngineVolumetrics/LightBeam/Materials/T_EV_LightBeam_Falloff_02.uasset" 569
+"../../../Engine/Content/EngineVolumetrics/LightBeam/Materials/M_EV_Lightbeam_Master_01.uasset" 570
+"../../../Engine/Content/EngineVolumetrics/LightBeam/Mesh/S_EV_SimpleLightBeam_01.uasset" 571
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Audio/Lazer1.uasset" 572
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Audio/Lazer1_Cue.uasset" 573
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Rocket/rocket_Chair_Mat.uasset" 574
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Rocket/rocket_Mat01.uasset" 575
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Rocket/rocket_Mat02.uasset" 576
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Rocket/rocket_Mat03.uasset" 577
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Rocket/rocket_Mat04.uasset" 578
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Rocket/RocketCombined.uasset" 579
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Blueprints/BP_UFO_Physics.uasset" 580
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Blueprints/BP_UFO_Physics.uasset" 581
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/ExampleActors/BP_GravityGameMode.uasset" 582
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/AdvancedMagicFX12/Textures/T_ky_dist_noise.uasset" 583
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Materials/FlatColor.uasset" 584
+"../../../Engine/Content/BasicShapes/Cube.uasset" 585
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/SimplePropsItemsIcons/Meshes/SimpleIcons/SM_ExclaimationIcon.uasset" 586
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Blueprints/ObjectiveBoardEnd.uasset" 587
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Blueprints/ObjectiveBoardPortal.uasset" 588
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PSXRENDERING/Monster/Material/PSXMasterMatTrans.uasset" 589
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Audio/ChipShop_YM_Arp_G_m_16.uasset" 590
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Rocket/Moonshot_Rocket_Body_rocket_Body.uasset" 591
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Rocket/Moonshot_Rocket_Body_rocket_Chiar.uasset" 592
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Rocket/Moonshot_Rocket_Thruster.uasset" 593
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Rocket/Moonshot_Rocket_Wings_rocket_Lwing.uasset" 594
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Rocket/Moonshot_Rocket_Wings_rocket_Rwing.uasset" 595
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Blueprints/RocketBuildFrame.uasset" 596
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Rocket/RocketSeperateZeroed_polySurface8.uasset" 597
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Rocket/RocketPieceChair.uasset" 598
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Rocket/RocketSeperateZeroed_polySurface7.uasset" 599
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Rocket/RocketPieceThruster.uasset" 600
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Rocket/RocketSeperateZeroed_polySurface5.uasset" 601
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Rocket/RocketPieceWingL.uasset" 602
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Rocket/RocketPieceWingR.uasset" 603
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Blueprints/RocketBuildTrigger.uasset" 604
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Audio/ChipShop_YM_FX_Bubbles.uasset" 605
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Rocket/RocketSeperateZeroed_polySurface3.uasset" 606
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Rocket/RocketPieceParent.uasset" 607
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Rocket/RocketSeperateZeroed_polySurface1.uasset" 608
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Rocket/RocketPieceBody.uasset" 609
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/StarSphere/Textures/T_Sun.uasset" 610
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/StarSphere/Materials/MF_StarSphereDecal.uasset" 611
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/StarSphere/Textures/T_Nebulas.uasset" 612
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/StarSphere/Textures/T_StarsBig.uasset" 613
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/StarSphere/Textures/T_StarsPoints.uasset" 614
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/StarSphere/Materials/M_StarSphere.uasset" 615
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/StarSphere/Materials/MI_StarSphere.uasset" 616
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/StarSphere/Meshes/SM_StarSphere.uasset" 617
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/StarSphere/Blueprints/BP_StarSphere.uasset" 618
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Geometry/Meshes/CubeMaterial.uasset" 619
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Audio/RockSmashCue.uasset" 620
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 621
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Geometry/Meshes/1M_Cube_Chamfer_DM.uasset" 622
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/TimeWithSpeedVariable.uasset" 623
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Lerp_Multiple_Float2.uasset" 624
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ms_PivotPainter2_UnpackIntegerAsFloat.uasset" 625
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/2dArrayLookupByIndex.uasset" 626
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/ms_PivotPainter2_CalculateMeshElementIndex.uasset" 627
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/ms_PivotPainter2_Decode8BitAlphaAxisExtent.uasset" 628
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/ms_PivotPainter2_DecodeAxisVector.uasset" 629
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/ms_PivotPainter2_DecodePostion.uasset" 630
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/ms_PivotPainter2_ReturnParentTextureInfo.uasset" 631
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 632
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectPivotPoint.uasset" 633
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 634
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/PivotPainter2/PP2_rgb_XVect_a_XExtent.uasset" 635
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/PivotPainter2/SimpExPivPos.uasset" 636
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PN_LowpolyGras/Materials/MaterialFunctions/PN_Bending.uasset" 637
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PN_LowpolyGras/Materials/MaterialFunctions/PN_MultiBend.uasset" 638
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PN_LowpolyGras/Materials/PN_WindParameters.uasset" 639
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/PivotPainter2/test2_rgb_PivotPos_a_ParentIndexInt_UV_2.uasset" 640
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/WindTurblenceVectorAndGustMagnitude.uasset" 641
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PN_LowpolyGras/Materials/MaterialFunctions/PN_WindAnimation.uasset" 642
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PN_LowpolyGras/Materials/MaterialFunctions/PN_BendingParameters.uasset" 643
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PN_LowpolyGras/Materials/MaterialFunctions/PN_AnimationShader.uasset" 644
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PN_LowpolyGras/Materials/MA_lowpolyGrass.uasset" 645
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PN_LowpolyGras/Textures/Grass_05/grass_05_brush_04_PIV.uasset" 646
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PN_LowpolyGras/Textures/Grass_05/grass_05_brush_04_Vec.uasset" 647
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PN_LowpolyGras/Materials/Grass_05/Grass_05_Brush_04_Mat.uasset" 648
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PN_LowpolyGras/Meshes/Grass_05/grass_05_brush_04.uasset" 649
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PN_LowpolyGras/FoliageTypes/Grass_05/Grass_05_Brush_04.uasset" 650
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PN_LowpolyGras/Textures/Grass_01/Grass_01_Brush_06_PIV.uasset" 651
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PN_LowpolyGras/Textures/Grass_01/Grass_01_Brush_06_Vec.uasset" 652
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PN_LowpolyGras/Materials/Grass_05/Grass_05_Brush_05_Mat.uasset" 653
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PN_LowpolyGras/Meshes/Grass_05/grass_05_brush_05.uasset" 654
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PN_LowpolyGras/FoliageTypes/Grass_05/Grass_05_Brush_05.uasset" 655
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/EB/IndicatorColor.uasset" 656
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/FootstepSound/Materials/Physical_Materials/09_Snow_Physic_Mat.uasset" 657
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/FootstepSound/Materials/Materials/Snow_Mat.uasset" 658
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Materials/Lava/Textures/T_Rock_Basalt_N.uasset" 659
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Materials/M_LavaRockMat.uasset" 660
+"../../../Engine/Content/MapTemplates/Sky/T_Sky_Stars.uasset" 661
+"../../../Engine/Content/MapTemplates/Sky/T_UDK_Sky_CloudMask01_N.uasset" 662
+"../../../Engine/Content/MapTemplates/T_UDK_Sky_CloudMask03.uasset" 663
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Materials/M_Procedural_Sky_MASTER02.uasset" 664
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/WaterMaterials/Materials/MPC_Globals.uasset" 665
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/WaterMaterials/Textures/T_SpecularHighlights.uasset" 666
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/WaterMaterials/Materials/MF_FakeSpecular.uasset" 667
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/WaterMaterials/Textures/T_Cubemap.uasset" 668
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/WaterMaterials/Textures/T_Water_Normal.uasset" 669
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/WaterMaterials/Textures/T_Water_Normal_Large.uasset" 670
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/WaterMaterials/Textures/T_Water_Normal_Subtle.uasset" 671
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/WaterMaterials/Materials/M_Water_Opaque.uasset" 672
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Textures/T_SandDunes_D.uasset" 673
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Textures/T_Water_01_N.uasset" 674
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Materials/M_Distance_Sand.uasset" 675
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Materials/M_Distance_Sand_Inst.uasset" 676
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Textures/T_BigNormal_N.uasset" 677
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Textures/T_OceonFoam2_M.uasset" 678
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Textures/T_OceonNormalShift2_M.uasset" 679
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Textures/T_OceonNormalShift2_N.uasset" 680
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Materials/M_WaterSIn.uasset" 681
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Materials/M_WaterSIn_Inst.uasset" 682
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/EB/IndicatorColor_Inst.uasset" 683
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Materials/Lava/Textures/T_Fire_Tiled_D.uasset" 684
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Materials/M_Lava.uasset" 685
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Materials/M_Lava_Inst.uasset" 686
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Materials/Textures/Pizza.uasset" 687
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Materials/M_PSXTestGrass.uasset" 688
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Materials/M_PSXTestGrass1.uasset" 689
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Materials/T_GroundGrass_D.uasset" 690
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Materials/M_PSXTestGrass2.uasset" 691
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Foliage/PolygonTown_Texture_01_A.uasset" 692
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PSXRENDERING/Monster/Material/M_PSXDefaultMat5.uasset" 693
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/SimplePropsItemsIcons/Textures/SimpleProps/T_SimpleProps.uasset" 694
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/PSXRENDERING/Monster/Material/M_PSXDefaultMat6.uasset" 695
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Meshes/SM_Ocean.uasset" 696
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/AddComponents.uasset" 697
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 698
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/Wind.uasset" 699
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter/PivotPainter_TreeData.uasset" 700
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/LinearSine.uasset" 701
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter/TreeAnimationSines.uasset" 702
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SmoothThreshold.uasset" 703
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Textures/T_PalmTree_D.uasset" 704
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Textures/T_PalmTree_M.uasset" 705
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Textures/T_PalmTree_N.uasset" 706
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Materials/M_PalmTree.uasset" 707
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Materials/M_PalmTree_Inst_01.uasset" 708
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Materials/Mesh_PhyMat.uasset" 709
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Meshes/SM_PalmTree_01.uasset" 710
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Textures/T_Cliff_M.uasset" 711
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Textures/T_Cliff_N.uasset" 712
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Textures/T_RocksCliffs_D.uasset" 713
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Textures/T_RocksCliffs_N.uasset" 714
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Textures/T_Sand_D.uasset" 715
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Textures/T_Sand_M.uasset" 716
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Textures/T_Sand_N2.uasset" 717
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Materials/M_Cliffs.uasset" 718
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Materials/M_Cliffs_Inst.uasset" 719
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Textures/T_RockStairs_N.uasset" 720
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Materials/M_Rockstairs_Inst.uasset" 721
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Plugins/DirGravity/Content/Assets/Meshes/SM_Rockstairs.uasset" 722
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 723
+"../../../Engine/Content/MapTemplates/Sky/M_Procedural_Sky_MASTER02.uasset" 724
+"../../../Engine/Content/MapTemplates/Sky/SM_SkySphere.uasset" 725
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Audio/Ambient_Noise_1.uasset" 726
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Audio/SoundTrack/Abstraction_-_Three_Red_Hearts_-_Box_Jump.uasset" 727
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Audio/SoundTrack/Abstraction_-_Three_Red_Hearts_-_Modern_Bits.uasset" 728
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Audio/SoundTrack/Abstraction_-_Three_Red_Hearts_-_Princess_Quest.uasset" 729
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Audio/SoundTrack/Abstraction_-_Three_Red_Hearts_-_Puzzle_Pieces.uasset" 730
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Audio/SoundTrack/Abstraction_-_Three_Red_Hearts_-_Save_the_City.uasset" 731
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Audio/SoundTrack/Spiderman_2_Pizza.uasset" 732
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Brandon/Models/stone.uasset" 733
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Brandon/Models/wood.uasset" 734
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Brandon/Models/woodDark.uasset" 735
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Brandon/Models/bench.uasset" 736
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Brandon/Models/_defaultMat.uasset" 737
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Brandon/Models/trainGrey.uasset" 738
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Brandon/Models/lightpost.uasset" 739
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Brandon/Models/ribbon.uasset" 740
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Brandon/Models/present_lid.uasset" 741
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Brandon/Models/packageWhite.uasset" 742
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Brandon/Models/present_present.uasset" 743
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Brandon/Models/presentLow_lid.uasset" 744
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Brandon/Models/presentLow_presentLow.uasset" 745
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Brandon/Models/sled_sled.uasset" 746
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Brandon/Models/carrot.uasset" 747
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Brandon/Models/snow.uasset" 748
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Brandon/Models/snowman_snowman.uasset" 749
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Brandon/Models/snowmanFancy.uasset" 750
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Brandon/Models/leaves.uasset" 751
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Brandon/Models/treePineSnowRound_treePineSnowRound.uasset" 752
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Foliage/defaultMat.uasset" 753
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Foliage/SM_Generic_Tree_03.uasset" 754
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Foliage/SM_Generic_Tree_04.uasset" 755
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/lambert1.uasset" 756
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Icoseheeby.uasset" 757
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/SimplePropsItemsIcons/Materials/SimpleProps/M_SimpleProps.uasset" 758
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/SimplePropsItemsIcons/Meshes/SimpleProps/SM_DogHouse_01.uasset" 759
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Levels/BossLevel.umap" 760
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Blueprints/MyAIGravityCharacterDocile.uasset" 761
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Audio/ChipShop_YM_Arp_B_05.uasset" 762
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Blueprints/IntroDeleteTrigger.uasset" 763
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Blueprints/PlatformBP.uasset" 764
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Blueprints/FakeWall.uasset" 765
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Blueprints/TVCam.uasset" 766
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Materials/ScreenRenderTarget_Mat.uasset" 767
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Materials/ScreenRenderTarget_Mat_Inst.uasset" 768
+"../../../Engine/Content/BasicShapes/Plane.uasset" 769
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Blueprints/TVPlane.uasset" 770
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Audio/TVTurnOff.uasset" 771
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Screen/SimpleInteriorsHouses.uasset" 772
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Screen/SimpleInteriorsHouses_Mat.uasset" 773
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Screen/Prop_Game_Console.uasset" 774
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Blueprints/ConsoleBP.uasset" 775
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Blueprints/SimulatePhysOnHit.uasset" 776
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Moon/MoonBP.uasset" 777
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/WarpsPack/Materials/M_BG.uasset" 778
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/WarpsPack/Warps/SimpleWarp/M_Simple_BG_Inst.uasset" 779
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/WarpsPack/Textures/T_Noise_8.uasset" 780
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/WarpsPack/Warps/SimpleWarp/M_SimpleWarpIntensive.uasset" 781
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/WarpsPack/Textures/T_Noise_12.uasset" 782
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/WarpsPack/Warps/SimpleWarp/M_SimpleWarpIntensive_Inst.uasset" 783
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/WarpsPack/Meshes/SM_Sphere.uasset" 784
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/WarpsPack/Meshes/SM_Warp.uasset" 785
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/WarpsPack/Meshes/SM_WarpBG.uasset" 786
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/WarpsPack/Textures/T_Star.uasset" 787
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/WarpsPack/Materials/M_Stars.uasset" 788
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/WarpsPack/Warps/SimpleWarp/P_SimpleStars.uasset" 789
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/WarpsPack/Warps/SimpleWarp/BP_SimpleWarp.uasset" 790
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Levels/MainLevel_BuiltData.uasset" 791
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Materials/BasicMat1.uasset" 792
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Materials/Textures/floor_tiles_06_diff_1k.uasset" 793
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Materials/M_PSXMatPlatform.uasset" 794
+"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 795
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Materials/IntructionsBlack_Sprite.uasset" 796
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Screen/lambert121.uasset" 797
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Screen/Floor_Carpet_Blue.uasset" 798
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Screen/Prop_Dresser_02.uasset" 799
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Screen/Prop_FruitBowl.uasset" 800
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Screen/Prop_Game_01.uasset" 801
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Screen/Prop_Game_02.uasset" 802
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Screen/Prop_Small_Table_05.uasset" 803
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Screen/Prop_Tv_02.uasset" 804
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Screen/BillboardAds.uasset" 805
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Screen/BillboardAds_Mat.uasset" 806
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/Screen/SM_Prop_Poster_03.uasset" 807
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Models/SimplePropsItemsIcons/Meshes/SimpleProps/SM_VendingMachine_Large_02.uasset" 808
+"C:/Users/Kaleb/Documents/Unreal Projects/MoonshotGithub/Content/Levels/MainLevel.umap" 809
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 810
+"../../../Engine/Content/Maps/Entry.umap" 811
